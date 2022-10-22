@@ -48,10 +48,7 @@ public class Calcolatrice {
 		}
 
 
-		public void toString(double calcolo) {
-			System.out.println("Operazione effettuata con successo");
-			
-		}
+		
 	    
 		
 }
